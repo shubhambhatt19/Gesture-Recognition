@@ -1,5 +1,5 @@
 # Gesture-Recognition
-recognising the hand action
+
 
 Smart TV comes up with the some additional feature like gesture recognition. Every hand gestures says something, for e.g. if I will swap the hand on left it could mean 
 that I want to change the jump backward by 10 seconds and so on.
