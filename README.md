@@ -6,8 +6,8 @@ that I want to change the jump backward by 10 seconds and so on.
 
 In this Problem statement we have to identify the 5 hands movement as followed:
 
-Thumbs up:  Increase the volume
-Thumbs down: Decrease the volume
-Left swipe: Jump backwards 10 seconds
-Right swipe: Jump forward 10 seconds  
-Stop: Pause the movie
+* Thumbs up:  Increase the volume
+* Thumbs down: Decrease the volume
+* Left swipe: Jump backwards 10 seconds
+* Right swipe: Jump forward 10 seconds  
+* Stop: Pause the movie
